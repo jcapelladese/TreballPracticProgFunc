@@ -255,8 +255,7 @@ public class Station {
 			num = 0;
 		} finally {
 			return num;
-		}
-		
+		}		
 	}
 	
 	/**
